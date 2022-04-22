@@ -23,5 +23,3 @@ heading.textContent = 'Как интересно!'
 // добавляем параграф и заголовок в DOM
 const root = document.querySelector('#root')
 root.append(heading, p, div)
-
-console.log(root);
